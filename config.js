@@ -12,11 +12,11 @@ var config = {
             id: 'chapter1',
             alignment: 'right',
             title: 'MINING',
-            image: '',
+            image: './images/Mining-01.jpg',
             description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
             location: {
                 center: [-74.076,42.793],
-                zoom: 7,
+                zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -40,11 +40,11 @@ var config = {
             id: 'chapter2',
             alignment: 'right',
             title: 'MANUFACTURING',
-            image: '',
+            image: './images/Manufacturing-01.jpg',
             description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
             location: {
                 center: [-74.076,42.793],
-                zoom: 7,
+                zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -68,11 +68,11 @@ var config = {
             id: 'chapter3',
             alignment: 'right',
             title: 'AGRICULTURE',
-            image: '',
+            image: './images/Agriculture-01.jpg',
             description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
             location: {
                 center: [-74.076,42.793],
-                zoom: 7,
+                zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -96,11 +96,11 @@ var config = {
             id: 'chapter4',
             alignment: 'right',
             title: 'SHIPPING & TRADE',
-            image: '',
+            image: './images/Trades-01.jpg',
             description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
             location: {
                 center: [-74.076,42.793],
-                zoom: 7,
+                zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -123,12 +123,12 @@ var config = {
         {
             id: 'chapter5',
             alignment: 'right',
-            title: 'MINING',
-            image: '',
+            title: 'TOURISM',
+            image: './images/Tourism-01.jpg',
             description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
             location: {
                 center: [-74.076,42.793],
-                zoom: 7,
+                zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
             },
@@ -152,11 +152,11 @@ var config = {
             id: 'chapter6',
             alignment: 'right',
             title: 'ALL INDUSTRIES',
-            image: '',
+            image: './images/All-01.jpg',
             description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
             location: {
                 center: [-74.076,42.793],
-                zoom: 7,
+                zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
             },
