@@ -13,7 +13,7 @@ var config = {
             alignment: 'right',
             title: 'MINING',
             image: './images/Mining-01.jpg',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [-74.076,42.793],
                 zoom: 6.5,
@@ -41,7 +41,7 @@ var config = {
             alignment: 'right',
             title: 'MANUFACTURING',
             image: './images/Manufacturing-01.jpg',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [-74.076,42.793],
                 zoom: 6.5,
@@ -69,7 +69,7 @@ var config = {
             alignment: 'right',
             title: 'AGRICULTURE',
             image: './images/Agriculture-01.jpg',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [-74.076,42.793],
                 zoom: 6.5,
@@ -97,7 +97,7 @@ var config = {
             alignment: 'right',
             title: 'SHIPPING & TRADE',
             image: './images/Trades-01.jpg',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [-74.076,42.793],
                 zoom: 6.5,
@@ -124,8 +124,8 @@ var config = {
             id: 'chapter5',
             alignment: 'right',
             title: 'TOURISM',
-            image: './images/Tourism-01.jpg',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            image: './images/Tourism_01.jpg',
+            description: '',
             location: {
                 center: [-74.076,42.793],
                 zoom: 6.5,
@@ -153,7 +153,7 @@ var config = {
             alignment: 'right',
             title: 'ALL INDUSTRIES',
             image: './images/All-01.jpg',
-            description: 'uam erat volutpat. Sed ullamcorper convallis eros ut auctor. Cras vel iaculis ligula, et vestibulum metus.',
+            description: '',
             location: {
                 center: [-74.076,42.793],
                 zoom: 6.5,
