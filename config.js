@@ -124,7 +124,7 @@ var config = {
             id: 'chapter5',
             alignment: 'right',
             title: 'TOURISM',
-            image: './images/Tourism_01.jpg',
+            image: './images/Tourism-01.jpg',
             description: '',
             location: {
                 center: [-74.076,42.793],
