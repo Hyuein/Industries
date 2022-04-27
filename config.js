@@ -15,7 +15,7 @@ var config = {
             image: './images/Mining-01.jpg',
             description: '',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -43,7 +43,7 @@ var config = {
             image: './images/Manufacturing-01.jpg',
             description: '',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -71,7 +71,7 @@ var config = {
             image: './images/Agriculture-01.jpg',
             description: '',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -99,7 +99,7 @@ var config = {
             image: './images/Trades-01.jpg',
             description: '',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -127,7 +127,7 @@ var config = {
             image: './images/Tourism-01.jpg',
             description: '',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
@@ -155,7 +155,7 @@ var config = {
             image: './images/All-01.jpg',
             description: '',
             location: {
-                center: [-74.076,42.793],
+                center: [-72.116,42.793],
                 zoom: 6.5,
                 pitch: 0,
                 bearing: 0.00
